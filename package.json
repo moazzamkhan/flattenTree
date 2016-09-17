@@ -1,0 +1,28 @@
+{
+  "name": "flattentree",
+  "version": "1.0.0",
+  "description": "Flatten the tree json",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://moazzamkhan@github.com/moazzamkhan/flattenTree.git"
+  },
+  "keywords": [
+    "flatten",
+    "tree",
+    "structure"
+  ],
+  "author": "Moazzam Khan <0moazzam.khan@gmail.com> (http://moazzam.me/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moazzamkhan/flattenTree/issues"
+  },
+  "homepage": "https://github.com/moazzamkhan/flattenTree#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
